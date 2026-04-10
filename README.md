@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saqib Khan</h1>
-<h3 align="center">Aspiring Data Engineer</h3>
+<h3 align="center">Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqi018&label=Profile%20views&color=0e75b6&style=flat" alt="saqi018" /> </p>
 
 
 
-- 🌱 I’m currently learning **- Advanced SQL - Data Warehousing Concepts - Building End-to-End Data Pipelines - Cloud Data Engineering (AWS)**
+- **- Pyhton - SQL - PySpark - AWS S3 | Data Warehousing Concepts - Building End-to-End Data Pipelines - Cloud Data Engineering (AWS)**
 
 - 📫 How to reach me **saqiii0018@gmail.com**
 
