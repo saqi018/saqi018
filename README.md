@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saqib Khan</h1>
 <h3 align="center">Data Engineer</h3>
 
+<p align="center">
+  <img src="https://herokuapp.com" alt="Typing SVG" />
+</p>
+
 - **- Pyhton - SQL - PySpark - AWS S3 | Data Warehousing Concepts - Building End-to-End Data Pipelines - Cloud Data Engineering (AWS)**
 
 - 📫 How to reach me **saqiii0018@gmail.com**
