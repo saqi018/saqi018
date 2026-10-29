@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Data Engineering" width="700" />
+  <img src="[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://camo.githubusercontent.com/07f64395028996cd16130dffe96816348a95099fc1e19b4ed519a5ba84d0ae8d/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966)" alt="Data Engineering" width="700" />
 </p>
 
 - Python - SQL - PySpark - AWS S3 | Data Warehousing Concepts - Building End-to-End Data Pipelines - Cloud Data Engineering (AWS)
