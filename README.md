@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Data Engineering" width="700" />
 </p>
 
-- **Python - SQL - PySpark - AWS S3 | Data Warehousing Concepts - Building End-to-End Data Pipelines - Cloud Data Engineering (AWS)**
+- Python - SQL - PySpark - AWS S3 | Data Warehousing Concepts - Building End-to-End Data Pipelines - Cloud Data Engineering (AWS)
 
 - 📫 How to reach me **saqiii0018@gmail.com**
 
